@@ -6,3 +6,6 @@ Objetivos do desenvolvimento desse projeto:
 - Criar uma conexão entre elas;
 - Orquestrar seu funcionamento.
 
+## Instalação das dependências
+
+    npm install
